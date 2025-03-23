@@ -1,0 +1,1 @@
+export type MedicalStatus = "Active" | "Pending" | "In Progress";
